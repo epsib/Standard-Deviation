@@ -1,1 +1,2 @@
-# Standard-Deviation
+# Standard_deviation
+solution for c105
